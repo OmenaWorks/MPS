@@ -217,11 +217,7 @@ a {
         margin-left: 30px;
     }
 
-     
-    .intro {
-        margin: auto;
-        width: 60%;
-    }
+
     
     .contact-message {
         width: 70%;
@@ -230,5 +226,16 @@ a {
     
     a {
         margin: 30px;
+    }
+
+    .top-container {
+        background-color: #E4F9F5;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .intro {
+        width: 90%;
+        margin: 0 auto;
     }
   }
