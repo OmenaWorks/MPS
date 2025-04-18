@@ -173,7 +173,9 @@ body {
     text-align: center;
     font-family: sans-serif;
 }
-
+ h1 {
+     margin: 20px auto;
+ }
     .bottom-cloud {
         display: none;
     }
