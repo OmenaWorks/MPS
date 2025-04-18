@@ -41,7 +41,7 @@ hr {
 a {
     color: #11999e;
     font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
+    margin: 40px 20px;
     text-decoration: none;
 }
 
@@ -175,6 +175,7 @@ body {
 }
  h1 {
      margin: 20px auto;
+     font-size: 60px;
  }
     .bottom-cloud {
         display: none;
@@ -205,8 +206,8 @@ body {
         margin: 0 auto;
         font-family: "Sacramento", cursive;
         font-weight: 800;
-        font-style: normal;
-        font-size: 80px;
+        font-style: none;
+        font-size: 60px;
         color: #66BFBF;
     }
     
