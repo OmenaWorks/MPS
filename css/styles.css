@@ -167,6 +167,12 @@ a {
 
 
   @media screen and (max-width: 1200px) {
+      
+body {
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
 
     .bottom-cloud {
         display: none;
